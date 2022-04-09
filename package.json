@@ -54,7 +54,7 @@
     "axios": "^0.18.0",
     "element-ui": "^2.13.0",
     "file-saver": "^2.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nprogress": "^0.2.0",
     "vue": "^2.5.16",
     "vue-clipboard2": "^0.3.1",
